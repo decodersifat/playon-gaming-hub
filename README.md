@@ -1,6 +1,4 @@
-[4 tools called]
 
-Based on your assignment requirements and project implementation, here's a comprehensive README.md that fulfills all the requirements:
 
 ```markdown
 # 🎮 PlayOn - Ultimate Gaming Discovery Platform
