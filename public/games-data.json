@@ -1,0 +1,302 @@
+[
+  {
+    "id": "1",
+    "title": "Player Unknown's Battle Ground: PUBG",
+    "coverPhoto": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1758255634",
+    "category": "FPS",
+    "downloadLink": "https://www.pubgmobile.com/en-US/home.shtml",
+    "description": "PUBG Mobile is a fast-paced battle royale game where players fight for survival, strategy, and victory on dynamic maps.",
+    "ratings": "4.5",
+    "developer": "Krafton"
+  },
+  {
+    "id": "2",
+    "title": "Counter-Strike 2",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/730/header.jpg",
+    "category": "FPS",
+    "downloadLink": "https://store.steampowered.com/app/730/CounterStrike_2/",
+    "description": "The world's premier competitive FPS game featuring tactical gameplay, precise shooting mechanics, and intense team-based combat.",
+    "ratings": "4.8",
+    "developer": "Valve"
+  },
+  {
+    "id": "3",
+    "title": "Call of Duty: Warzone",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1985810/header.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.callofduty.com/warzone",
+    "description": "Experience the ultimate Battle Royale with cutting-edge graphics, realistic weapons, and intense combat scenarios.",
+    "ratings": "4.3",
+    "developer": "Activision"
+  },
+  {
+    "id": "4",
+    "title": "Apex Legends",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1172470/header.jpg",
+    "category": "FPS",
+    "downloadLink": "https://www.ea.com/games/apex-legends",
+    "description": "A free-to-play hero shooter battle royale game featuring unique characters with special abilities and fast-paced combat.",
+    "ratings": "4.6",
+    "developer": "Respawn Entertainment"
+  },
+  {
+    "id": "5",
+    "title": "Valorant",
+    "coverPhoto": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d0db663bf28844dcbd744935cdd8c71083e0031c-5600x3150.jpg",
+    "category": "FPS",
+    "downloadLink": "https://playvalorant.com/",
+    "description": "A tactical first-person shooter combining precise gunplay with unique agent abilities in competitive 5v5 matches.",
+    "ratings": "4.4",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "6",
+    "title": "The Witcher 3: Wild Hunt",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/292030/header.jpg",
+    "category": "RPG",
+    "downloadLink": "https://store.steampowered.com/app/292030/The_Witcher_3_Wild_Hunt/",
+    "description": "An epic open-world RPG following Geralt of Rivia in a story-driven adventure with incredible depth and choice.",
+    "ratings": "4.9",
+    "developer": "CD Projekt Red"
+  },
+  {
+    "id": "7",
+    "title": "Elden Ring",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1245620/header.jpg",
+    "category": "Name",
+    "downloadLink": "https://store.steampowered.com/app/1245620/ELDEN_RING/",
+    "description": "A massive action RPG set in a dark fantasy world created by Hidetaka Miyazaki and George R.R. Martin.",
+    "ratings": "4.8",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": "8",
+    "title": "Cyberpunk 2077",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1091500/header.jpg",
+    "category": "RPG",
+    "downloadLink": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "description": "An open-world action-adventure story set in Night City, a megalopolis obsessed with power, glamour and body modification.",
+    "ratings": "4.2",
+    "developer": "CD Projekt Red"
+  },
+  {
+    "id": "9",
+    "title": "Baldur's Gate 3",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1086940/header.jpg",
+    "category": "RPG",
+    "downloadLink": "https://store.steampowered.com/app/1086940/Baldurs_Gate_3/",
+    "description": "A next-generation RPG set in the world of Dungeons & Dragons with deep character customization and branching narratives.",
+    "ratings": "4.9",
+    "developer": "Larian Studios"
+  },
+  {
+    "id": "10",
+    "title": "Final Fantasy XIV",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/39210/header.jpg",
+    "category": "MMORPG",
+    "downloadLink": "https://store.steampowered.com/app/39210/FINAL_FANTASY_XIV_Online/",
+    "description": "A critically acclaimed MMORPG with a rich story, engaging combat, and a welcoming community.",
+    "ratings": "4.7",
+    "developer": "Square Enix"
+  },
+  {
+    "id": "11",
+    "title": "League of Legends",
+    "coverPhoto": "https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://www.leagueoflegends.com/",
+    "description": "A fast-paced, competitive online game that blends the speed and intensity of an RTS with RPG elements.",
+    "ratings": "4.1",
+    "developer": "Riot Games"
+  },
+  {
+    "id": "12",
+    "title": "Dota 2",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/570/header.jpg",
+    "category": "MOBA",
+    "downloadLink": "https://store.steampowered.com/app/570/Dota_2/",
+    "description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes.",
+    "ratings": "4.3",
+    "developer": "Valve"
+  },
+  {
+    "id": "13",
+    "title": "Minecraft",
+    "coverPhoto": "https://www.minecraft.net/content/dam/minecraftnet/games/dungeons/key-art/Dungeons-PMP_Hero-Art_ParallaxB_1920x1080.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://www.minecraft.net/",
+    "description": "Build, explore, and survive in an infinite world made entirely of blocks. Create anything you can imagine.",
+    "ratings": "4.8",
+    "developer": "Mojang Studios"
+  },
+  {
+    "id": "14",
+    "title": "Terraria",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg",
+    "category": "Sandbox",
+    "downloadLink": "https://store.steampowered.com/app/105600/Terraria/",
+    "description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game.",
+    "ratings": "4.6",
+    "developer": "Re-Logic"
+  },
+  {
+    "id": "15",
+    "title": "Grand Theft Auto V",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/271590/header.jpg",
+    "category": "Action",
+    "downloadLink": "https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/",
+    "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos.",
+    "ratings": "4.5",
+    "developer": "Rockstar Games"
+  },
+  {
+    "id": "16",
+    "title": "Red Dead Redemption 2",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1174180/header.jpg",
+    "category": "Action",
+    "downloadLink": "https://store.steampowered.com/app/1174180/Red_Dead_Redemption_2/",
+    "description": "Winner of over 175 Game of the Year Awards and recipient of over 250 perfect scores, RDR2 is an epic tale of honor and loyalty.",
+    "ratings": "4.8",
+    "developer": "Rockstar Games"
+  },
+  {
+    "id": "17",
+    "title": "Assassin's Creed Valhalla",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/2208920/header.jpg",
+    "category": "Action",
+    "downloadLink": "https://store.steampowered.com/app/2208920/Assassins_Creed_Valhalla/",
+    "description": "Become Eivor, a legendary Viking warrior on a quest for glory. Raid your enemies, grow your settlement, and build your political power.",
+    "ratings": "4.3",
+    "developer": "Ubisoft"
+  },
+  {
+    "id": "18",
+    "title": "FIFA 24",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/2195250/header.jpg",
+    "category": "Sports",
+    "downloadLink": "https://store.steampowered.com/app/2195250/EA_SPORTS_FC_24/",
+    "description": "Experience the beautiful game like never before with EA SPORTS FC 24 - the most realistic football game ever created.",
+    "ratings": "4.0",
+    "developer": "EA Sports"
+  },
+  {
+    "id": "19",
+    "title": "NBA 2K24",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/2542580/header.jpg",
+    "category": "Sports",
+    "downloadLink": "https://store.steampowered.com/app/2542580/NBA_2K24/",
+    "description": "Experience the most realistic basketball simulation with NBA 2K24 featuring authentic gameplay and immersive career modes.",
+    "ratings": "3.8",
+    "developer": "2K Sports"
+  },
+  {
+    "id": "20",
+    "title": "Rocket League",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/252950/header.jpg",
+    "category": "Sports",
+    "downloadLink": "https://store.steampowered.com/app/252950/Rocket_League/",
+    "description": "Soccer meets driving once again in the long-awaited, physics-based multiplayer-focused sequel to Supersonic Acrobatic Rocket-Powered Battle-Cars!",
+    "ratings": "4.4",
+    "developer": "Psyonix"
+  },
+  {
+    "id": "21",
+    "title": "Among Us",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/945360/header.jpg",
+    "category": "Party",
+    "downloadLink": "https://store.steampowered.com/app/945360/Among_Us/",
+    "description": "An online and local party game of teamwork and betrayal for 4-15 players...in space!",
+    "ratings": "4.2",
+    "developer": "InnerSloth"
+  },
+  {
+    "id": "22",
+    "title": "Fall Guys",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1097150/header.jpg",
+    "category": "Party",
+    "downloadLink": "https://store.steampowered.com/app/1097150/Fall_Guys/",
+    "description": "Fall Guys is a free, cross-platform, massively multiplayer, party royale game where you and your fellow contestants compete through escalating rounds.",
+    "ratings": "4.0",
+    "developer": "Mediatonic"
+  },
+  {
+    "id": "23",
+    "title": "Stardew Valley",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/413150/header.jpg",
+    "category": "Simulation",
+    "downloadLink": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+    "description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life.",
+    "ratings": "4.9",
+    "developer": "ConcernedApe"
+  },
+  {
+    "id": "24",
+    "title": "The Sims 4",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/header.jpg",
+    "category": "Simulation",
+    "downloadLink": "https://store.steampowered.com/app/1222670/The_Sims_4/",
+    "description": "Create and control people, build their homes, and direct their lives in The Sims 4 - the best-selling life simulation game.",
+    "ratings": "4.1",
+    "developer": "Maxis"
+  },
+  {
+    "id": "25",
+    "title": "Cities: Skylines",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/255710/header.jpg",
+    "category": "Simulation",
+    "downloadLink": "https://store.steampowered.com/app/255710/Cities_Skylines/",
+    "description": "Cities: Skylines is a modern take on the classic city simulation. The game introduces new game play elements to realize the thrill and hardships of creating and maintaining a real city.",
+    "ratings": "4.5",
+    "developer": "Colossal Order"
+  },
+  {
+    "id": "26",
+    "title": "Sekiro: Shadows Die Twice",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/814380/header.jpg",
+    "category": "Action",
+    "downloadLink": "https://store.steampowered.com/app/814380/Sekiro_Shadows_Die_Twice/",
+    "description": "Carve your own clever path to vengeance in an all-new adventure from developer FromSoftware, creators of Bloodborne and the Dark Souls series.",
+    "ratings": "4.7",
+    "developer": "FromSoftware"
+  },
+  {
+    "id": "27",
+    "title": "God of War",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg",
+    "category": "Action",
+    "downloadLink": "https://store.steampowered.com/app/1593500/God_of_War/",
+    "description": "His vengeance against the Gods of Olympus years behind him, Kratos now lives as a man in the realm of Norse Gods and monsters.",
+    "ratings": "4.9",
+    "developer": "Santa Monica Studio"
+  },
+  {
+    "id": "28",
+    "title": "Hades",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/1145360/header.jpg",
+    "category": "Roguelike",
+    "downloadLink": "https://store.steampowered.com/app/1145360/Hades/",
+    "description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler.",
+    "ratings": "4.8",
+    "developer": "Supergiant Games"
+  },
+  {
+    "id": "29",
+    "title": "Dead Cells",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/588650/header.jpg",
+    "category": "Roguelike",
+    "downloadLink": "https://store.steampowered.com/app/588650/Dead_Cells/",
+    "description": "Dead Cells is a rogue-lite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you're able to fight your way past its keepers.",
+    "ratings": "4.7",
+    "developer": "Motion Twin"
+  },
+  {
+    "id": "30",
+    "title": "Portal 2",
+    "coverPhoto": "https://cdn.akamai.steamstatic.com/steam/apps/620/header.jpg",
+    "category": "Puzzle",
+    "downloadLink": "https://store.steampowered.com/app/620/Portal_2/",
+    "description": "The 'Perpetual Testing Initiative' has been expanded to allow you to design, build, and share your own test chambers with the Steam Workshop.",
+    "ratings": "4.9",
+    "developer": "Valve"
+  }
+]
