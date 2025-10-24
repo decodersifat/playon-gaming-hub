@@ -7,7 +7,7 @@ Based on your assignment requirements and project implementation, here's a compr
 
 ## 🚀 Live Demo
 [Deploy your app and add the URL here]
-*Example: https://your-username.github.io/playon/*
+*Example: https://decoder-sifat-playon.netlify.app/*
 
 ## 📋 Project Overview
 
