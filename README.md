@@ -4,7 +4,7 @@
 # 🎮 PlayOn - Ultimate Gaming Discovery Platform
 
 ## 🚀 Live Demo
-[Deploy your app and add the URL here]
+
 *Example: https://decoder-sifat-playon.netlify.app/*
 
 ## 📋 Project Overview
